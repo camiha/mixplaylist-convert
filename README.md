@@ -26,7 +26,7 @@ spotifyのプレイリストに変換します.
 % python3 convert.py 
 
 Please Input Your UserID
->> e0gqy0t4edd27782g8r930bto 
+>> e0gqy0t4edd27782g8r930bto #自分のユーザIDを入力してください．（認証画面が別ウィンドウで表示されます）
 
 Please Input Mixtape URL
 >> https://www.youtube.com/watch?v=BKjX5UWsH_U 
