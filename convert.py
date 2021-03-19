@@ -4,8 +4,13 @@ import spotipy.util as util
 import re
 from apiclient.discovery import build
 
-YOUTUBE_API_KEY = 'AIzaSyAggIO9G7DiSz9lMfsddbB7Vs-zMxbibt0'
-username = 'e0gqy0t4edd27782g8r930bto'
+SPOTIPY_CLIENT_ID='your spotify api key here'
+SPOTIPY_CLIENT_SECRET='your spotify api crient seacret key here'
+SPOTIPY_REDIRECT_URI='http://127.0.0.1:8080/'
+YOUTUBE_API_KEY = 'your youtube api key here'
+
+print('Please Input Your UserID')
+username = input('>> ')
 
 print('')
 print('Please Input Mixtape URL')
