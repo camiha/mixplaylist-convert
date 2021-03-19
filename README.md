@@ -6,11 +6,12 @@ Youtubeにおけるmixplaylist(複数の楽曲を一つの動画にまとめた�
 1. 必要apiキーの取得・登録
     * [spotify developers](https://developer.spotify.com/)にてアプリ作成  
     * cliant id/client seacretを取得   
-    * 参考:[Spotify Developer Platform: Spotify APIアクセスしてデータ取得してみてみた - Qiita](https://qiita.com/shirok/items/ba5c45511498b75aac27)   
+        参考:[Spotify Developer Platform: Spotify APIアクセスしてデータ取得してみてみた - Qiita](https://qiita.com/shirok/items/ba5c45511498b75aac27)   
+   
     * [google cloud platform](https://console.cloud.google.com/)にてyoutube data apiの登録，api keyの取得  
-    * 参考:[Youtube Data APIを使ってPythonでYoutubeデータを取得する - Qiita](https://qiita.com/g-k/items/7c98efe21257afac70e9)   
-
-各api keyをconvert.py内の該当場所にペースト
+        参考:[Youtube Data APIを使ってPythonでYoutubeデータを取得する - Qiita](https://qiita.com/g-k/items/7c98efe21257afac70e9)   
+   
+    * 各api keyをconvert.py内の該当場所にペースト
 
 2. 必要ライブラリのインストール
 ```
