@@ -53,3 +53,4 @@ Please Input Mixtape URL
 ## ToDo 
 * webアプリ化 
 * 投稿者がスペルミスをしていても検索できるように 
+* 抽出機能の高精度化
