@@ -1,5 +1,7 @@
 # mixplaylist-convert
-Youtubeにおけるmixplaylist(複数の楽曲を一つの動画にまとめたプレイリスト)をspotifyのプレイリストに変換します.
+Youtubeにおけるmixplaylist(複数の楽曲を一つの動画にまとめたプレイリスト)を  
+spotifyのプレイリストに変換します.   
+
 動画概要欄の楽曲情報を正規表現で抽出し,spotifyで検索・プレイリストを作成します.
 
 ## 使用方法
