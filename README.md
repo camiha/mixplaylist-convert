@@ -7,7 +7,7 @@ spotifyのプレイリストに変換します.
 ## 使用方法
 1. 必要apiキーの取得・登録
     * [spotify developers](https://developer.spotify.com/)にてアプリ作成  
-    * cliant id/client seacretを取得   
+    * cliant id/client secretを取得   
         参考:[Spotify Developer Platform: Spotify APIアクセスしてデータ取得してみてみた - Qiita](https://qiita.com/shirok/items/ba5c45511498b75aac27)   
    
     * [google cloud platform](https://console.cloud.google.com/)にてyoutube data apiの登録，apiキーの取得  
